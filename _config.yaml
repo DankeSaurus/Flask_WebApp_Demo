@@ -32,7 +32,7 @@ experience:
     from: June 2021
     to: July 2021
     description: >
-      Responsibilities: Organizing entire department while supporting customer needs. Troubleshooting printing systems in support of customer demand. Using technology to solve the needs of customers. Educating customers on technical solutions
+      Responsibilities: Organizing entire department while supporting customer needs, troubleshooting printing systems in support of customer demand, using technology to solve the needs of customers, and educating customers on technical solutions.
   item4:
     position: Team Competitor
     company: NCL/Cyber Skyline
@@ -55,7 +55,7 @@ experience:
     from: January 2020
     to: August 2020
     description: >
-      Contracted with online clients to create technical documentation of various design patterns in video game development. Responsibilities: Finding and securing client base. Meeting customer deadlines with multiple deliverables simultaneously. Testing and reviewing software products.Contracted with online clients to create technical documentation of various design patterns in video game development. Responsibilities: Finding and securing client base. Meeting customer deadlines with multiple deliverables simultaneously. Testing and reviewing software products.Contracted with online clients to create technical documentation of various design patterns in video game development. Responsibilities: Finding and securing client base. Meeting customer deadlines with multiple deliverables simultaneously. Testing and reviewing software products.
+      Contracted with online clients to create technical documentation of various design patterns in video game development. Responsibilities: Finding and securing client base, and meeting customer deadlines with multiple deliverables simultaneously, testing and reviewing software products.
   item1:
     position: Junior Baker
     company: Blue Ridge Baking Company
@@ -71,7 +71,7 @@ education:
   item2:
     institution: Lord Fairfax Community College
     program: Associate of Applied Science in Cybersecurity 
-    description: Participated on my schools Technology Competition team where I attended several Capture The Flag events.
+    description: Participated on my schools Technology Competition team where I attended several Capture the Flag events.
     from: August 2020
     to: Expected May 2023
   item3:
@@ -100,7 +100,7 @@ community:
   item3:
     institution: The Commonwealth Cyber Initiative
     program: Innovation Boot Camp
-    description: Attended the first CCI Innovation Boot Camp where I was asked with developing and presenting the solution to a realworld enterprise sponsored problem. The task we were assigned was to develop multiple honeypots for our sponsors network to capture malware.
+    description: Attended the first CCI Innovation Boot Camp where I was tasked with developing and presenting the solution to a realworld enterprise sponsored problem. The task we were assigned was to develop multiple honeypots for our sponsors network to capture malware.
     from: January 2022
     to: January 2022
     link: https://cyberinitiative.org/events-programs/2021/cci-innovation-bootcamp.html
@@ -131,6 +131,8 @@ extra_skills:
   - WSL
   - OpenVPN
   - VMware
+  - Openshift
+  - Podman
 
 
 # Talks and workshops section
@@ -154,11 +156,13 @@ workshops:
 # Projects section
 projects:
   item1:
-    title: flask_gunicorn_web_app
-    subtitle: flask_gunicorn_app
-    description: Web framework image for docker hub.
-    github: https://github.com/DankeSaurus/flask_gunicorn_app.git
-    tags: [Flask, Python, gunicorn]
+    title: Flask_WebApp_DemoFlask_WebApp_Demo
+    subtitle: Flask/Bootstrap docker image
+    description: Web framework image for Docker.
+    github: https://github.com/DankeSaurus
+    link: https://github.com/DankeSaurus/Flask_WebApp_Demo.git
+    img: 
+    tags: [Flask, Python, Gunicorn, Bootstrap, Docker]
   
 
 
