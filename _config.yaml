@@ -26,6 +26,13 @@ social:
 
 # Experience section
 experience:
+  item6: 
+    position: Competitor 
+    company: VMI Cyber Fusion
+    from: 2022
+    to: 2022
+    description: Through LFCC I competeted on behalf of the college in the VMI Commonwealth Cyber Fusion competition where my team came in 1st. Place.
+    link: https://www.vmi.edu/about/conferences/cyberfusion/
   item5:
     position: Print & Marketing Associate
     company: Staples
@@ -171,16 +178,17 @@ projects:
 
 # Certifications and awards section
 awards:
-  - Networking Concepts and Protocols - Pluralsight 2020
-  - Introduction to Enterprise Network Infrastructure - Pluralsight 2020
-  - Network Security Basics - Pluralsight 2020
-  - Network Troubleshooting and Tools - Pluralsight 2020
-  - Practical Networking - Pluralsight 2020
-  - Network Penetration Testing Using Python and Kali Linux - Pluralsight 2020
-  - Ethical Hacking Understanding Ethical Hacking - Pluralsight 2020
-  - Ethical Hacking Reconnaissance/Footprinting - Pluralsight 2020
-  - Ethical Hacking Scanning Networks - Pluralsight 2020
-  - Python The Big Picture - Pluralsight 2020
-  - Network Concepts and Protocols - Pluralsight 2021
-  - Introduction to Enterprise Network Infrastructure - Pluralsight 2021
+  - 1st. Place - Community College Division - VMI Cyber Fusion 2022
   - Network Management and Operations - Pluralsight 2022
+  - Introduction to Enterprise Network Infrastructure - Pluralsight 2021
+  - Network Concepts and Protocols - Pluralsight 2021
+  - Python The Big Picture - Pluralsight 2020
+  - Ethical Hacking Scanning Networks - Pluralsight 2020
+  - Ethical Hacking Reconnaissance/Footprinting - Pluralsight 2020
+  - Ethical Hacking Understanding Ethical Hacking - Pluralsight 2020
+  - Network Penetration Testing Using Python and Kali Linux - Pluralsight 2020
+  - Practical Networking - Pluralsight 2020
+  - Network Troubleshooting and Tools - Pluralsight 2020
+  - Network Security Basics - Pluralsight 2020
+  - Introduction to Enterprise Network Infrastructure - Pluralsight 2020
+  - Networking Concepts and Protocols - Pluralsight 2020
