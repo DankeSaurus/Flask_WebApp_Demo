@@ -16,7 +16,7 @@ profile:
 # Social section
 social:
   website: http://www.coopervarela.com
-  github: https://github.com/DankeSaurus
+  github: https://github.com/coopervarela
   twitter: 
   linkedin: https://www.linkedin.com/in/cooper-varela-5b367218a
   facebook:
@@ -83,7 +83,7 @@ experience:
 # Education section
 education:
   item2:
-    institution: Lord Fairfax Community College
+    institution: Laurel Ridge Community College
     program: Associate of Applied Science in Cybersecurity 
     description: Participated on my schools Technology Competition team where I attended several Capture the Flag events.
     from: August 2020
@@ -109,7 +109,7 @@ education:
   item6:
     institution: Homeschool
     program: High School diploma 
-    description: During my last year of school I dual enrolled into Lord Fairfax Community College.
+    description: During my last year of school I dual enrolled into Laurel Ridge Community College.
     from: August 2017
     to: May 2021
   reference: https://docs.google.com/document/d/1_fel546-c7uan85yLRtzodgPdj9Uof6f/edit?usp=sharing&ouid=114479504748287987728&rtpof=true&sd=true
@@ -117,7 +117,14 @@ education:
 
 
 # Community section:
-community:
+community: 
+  item2:
+    institution: The Commonwealth Cyber Initiative
+    program: CCI Cyber Camp
+    description: I was selected for an invitation to the second annual CCI Cyber Camp. After completing the qualifying event where I was tasked with completing several challenges including cryptography, networking, reverse engineering, and, web exploitation. During the camp, I was able to attend lectures on wireless communication networks, artificial intelligence, and data analytics. After the lectures, I was able to participate in hands-on workshops where I was able to use tools such as jmp to create a working 4G network and group presentations on data analytics as well as AI. 
+    from: June 2022
+    to: June 2022
+    link: https://cyberinitiative.org/cci-news/2022/cci-hosts-the-2022-cci-cyber-camp.html
   item3:
     institution: The Commonwealth Cyber Initiative
     program: Innovation Boot Camp
@@ -126,7 +133,7 @@ community:
     to: January 2022
     link: https://cyberinitiative.org/events-programs/2021/cci-innovation-bootcamp.html
   item4:
-    institution: Lord Fairfax Community 
+    institution: Laurel Ridge Community 
     program: Technology Competition Team
     description: Participated as an active member of the Technology Competition team were I attended several capture the flag competitions.
     from: January 2021
@@ -152,6 +159,7 @@ extra_skills:
   - Wireshark
   - Nmap
   - WSL
+  - Kali
   - OpenVPN
   - VMware
   - Openshift
@@ -162,10 +170,18 @@ extra_skills:
   - BASH
   - Networks
   - RSA, PKI, PGP Encryption
+  - OSForensics
+  - Autopsy
+  - FTK imager
 
 
 # Talks and workshops section
 workshops:
+  item8: 
+    event: CCI Cyber Camp
+    Workshop: Workshop - 2022
+    link: https://cyberinitiative.org/cci-news/2022/cci-hosts-the-2022-cci-cyber-camp.html
+    material: https://cyberinitiative.org/events-programs/2022/cybercamp-2022.html
   item9: 
     event: CCI Innovation Boot Camp
     workshop: Workshop - 2022
